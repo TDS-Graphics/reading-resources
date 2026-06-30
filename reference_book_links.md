@@ -15,7 +15,7 @@
 
 #### 图形接口 | Graphic API
 * [Learn OpenGL CN](https://learnopengl-cn.github.io/intro/)
-* [Learn OpenGL EN](https://learnopengl.com/)]
+* [Learn OpenGL EN](https://learnopengl.com/)
 * [ogldev](https://ogldev.org/)
 * [vulkan tutorial](https://vulkan-tutorial.com/)
 * [Vulkan Guide](https://vkguide.dev/)
